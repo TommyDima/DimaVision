@@ -1,0 +1,16 @@
+{
+  "name": "dimavision",
+  "version": "1.0.0",
+  "description": "Simple Discord integration for IBM Watson cloud computing.",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "keywords": ["Discord", "IBM", "Watson", "Bot", "Image", "Recognition"],
+  "author": "TommyDima",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.4.0",
+    "watson-developer-cloud": "^3.8.0"
+  }
+}
