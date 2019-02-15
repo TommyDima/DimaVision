@@ -10,7 +10,7 @@ With this project you will be able to set up an image recognition bot in minutes
 - Install all the dependencies using `npm install`.
 - Start the bot with `npm start`.
 
-> Watson cloud computing is not totally free. You'll have to pay if you exceed the monthly given free requests.
+_Watson cloud computing is not totally free. You'll have to pay if you exceed the monthly given free requests._
 
 ### Extra
 - [x] Grabify filtering.
